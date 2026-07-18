@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
