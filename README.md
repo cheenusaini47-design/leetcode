@@ -51,9 +51,14 @@
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/cheenusaini47-design/leetcode/tree/master/0724-find-pivot-index) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 ## Sorting
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/cheenusaini47-design/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
