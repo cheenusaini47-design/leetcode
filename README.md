@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -94,6 +96,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -109,6 +112,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -131,6 +135,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
