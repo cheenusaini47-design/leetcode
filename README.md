@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cheenusaini47-design/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
@@ -51,6 +52,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0724-find-pivot-index](https://github.com/cheenusaini47-design/leetcode/tree/master/0724-find-pivot-index) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
