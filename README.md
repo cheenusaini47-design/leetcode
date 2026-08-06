@@ -20,6 +20,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -65,6 +66,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Prefix Sum
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
