@@ -55,6 +55,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0724-find-pivot-index](https://github.com/cheenusaini47-design/leetcode/tree/master/0724-find-pivot-index) |
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
@@ -62,6 +63,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -174,4 +177,16 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
