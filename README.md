@@ -23,6 +23,7 @@
 | [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,12 +189,18 @@
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
