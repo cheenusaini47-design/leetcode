@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -51,12 +52,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/cheenusaini47-design/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -81,6 +84,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cheenusaini47-design/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -205,4 +209,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
