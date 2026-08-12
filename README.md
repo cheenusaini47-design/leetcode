@@ -42,6 +42,7 @@
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cheenusaini47-design/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Memoization
 |  |
 | ------- |
