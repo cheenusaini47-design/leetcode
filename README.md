@@ -64,6 +64,7 @@
 | [0041-first-missing-positive](https://github.com/cheenusaini47-design/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
@@ -222,4 +223,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
