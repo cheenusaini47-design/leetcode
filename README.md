@@ -79,6 +79,7 @@
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -247,4 +248,5 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
 <!---LeetCode Topics End-->
