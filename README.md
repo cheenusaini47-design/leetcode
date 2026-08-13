@@ -76,6 +76,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
