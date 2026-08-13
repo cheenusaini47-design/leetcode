@@ -67,6 +67,7 @@
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -167,6 +168,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
