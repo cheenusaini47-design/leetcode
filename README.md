@@ -31,6 +31,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cheenusaini47-design/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -239,6 +240,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/cheenusaini47-design/leetcode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -248,6 +250,7 @@
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/cheenusaini47-design/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
