@@ -24,6 +24,7 @@
 | [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/cheenusaini47-design/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/cheenusaini47-design/leetcode/tree/master/0917-reverse-only-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
@@ -232,6 +233,7 @@
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/cheenusaini47-design/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/cheenusaini47-design/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
