@@ -89,6 +89,7 @@
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -231,6 +232,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
@@ -269,4 +271,5 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cheenusaini47-design/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
