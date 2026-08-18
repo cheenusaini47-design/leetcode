@@ -90,6 +90,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
@@ -210,6 +212,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
 | ------- |
@@ -233,6 +236,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
