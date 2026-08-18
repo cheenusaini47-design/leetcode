@@ -28,6 +28,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/cheenusaini47-design/leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/cheenusaini47-design/leetcode/tree/master/0917-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/cheenusaini47-design/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cheenusaini47-design/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -239,6 +240,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/cheenusaini47-design/leetcode/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/cheenusaini47-design/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
@@ -250,6 +252,7 @@
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/cheenusaini47-design/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/cheenusaini47-design/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
