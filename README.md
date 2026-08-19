@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cheenusaini47-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/cheenusaini47-design/leetcode/tree/master/0058-length-of-last-word) |
@@ -235,6 +236,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cheenusaini47-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/cheenusaini47-design/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
@@ -284,6 +286,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/cheenusaini47-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/cheenusaini47-design/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/1004-max-consecutive-ones-iii) |
