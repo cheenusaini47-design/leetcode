@@ -33,6 +33,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1436-destination-city](https://github.com/cheenusaini47-design/leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cheenusaini47-design/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1496-path-crossing](https://github.com/cheenusaini47-design/leetcode/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -250,6 +251,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/cheenusaini47-design/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1436-destination-city](https://github.com/cheenusaini47-design/leetcode/tree/master/1436-destination-city) |
+| [1496-path-crossing](https://github.com/cheenusaini47-design/leetcode/tree/master/1496-path-crossing) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
