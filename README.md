@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cheenusaini47-design/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/cheenusaini47-design/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0206-reverse-linked-list) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cheenusaini47-design/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cheenusaini47-design/leetcode/tree/master/0326-power-of-three) |
