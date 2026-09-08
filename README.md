@@ -14,6 +14,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
 | ------- |
