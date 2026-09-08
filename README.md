@@ -12,6 +12,7 @@
 | [0203-remove-linked-list-elements](https://github.com/cheenusaini47-design/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -67,6 +68,7 @@
 | [0326-power-of-three](https://github.com/cheenusaini47-design/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Memoization
 |  |
