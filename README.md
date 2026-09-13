@@ -49,6 +49,7 @@
 | [1436-destination-city](https://github.com/cheenusaini47-design/leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/cheenusaini47-design/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1496-path-crossing](https://github.com/cheenusaini47-design/leetcode/tree/master/1496-path-crossing) |
+| [1544-make-the-string-great](https://github.com/cheenusaini47-design/leetcode/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cheenusaini47-design/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/cheenusaini47-design/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -159,6 +160,7 @@
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cheenusaini47-design/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cheenusaini47-design/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/cheenusaini47-design/leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
 |  |
 | ------- |
