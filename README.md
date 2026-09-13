@@ -43,6 +43,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/cheenusaini47-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/cheenusaini47-design/leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/cheenusaini47-design/leetcode/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cheenusaini47-design/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/cheenusaini47-design/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1436-destination-city](https://github.com/cheenusaini47-design/leetcode/tree/master/1436-destination-city) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cheenusaini47-design/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cheenusaini47-design/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
