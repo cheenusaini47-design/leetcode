@@ -69,6 +69,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/cheenusaini47-design/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
@@ -345,6 +346,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
@@ -369,4 +371,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/cheenusaini47-design/leetcode/tree/master/0141-linked-list-cycle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
