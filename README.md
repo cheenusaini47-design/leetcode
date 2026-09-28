@@ -77,6 +77,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1518-water-bottles](https://github.com/cheenusaini47-design/leetcode/tree/master/1518-water-bottles) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Memoization
 |  |
@@ -350,6 +351,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
+| [1518-water-bottles](https://github.com/cheenusaini47-design/leetcode/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
 |  |
