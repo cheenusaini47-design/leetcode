@@ -135,6 +135,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/cheenusaini47-design/leetcode/tree/master/1436-destination-city) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1695-maximum-erasure-value](https://github.com/cheenusaini47-design/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/cheenusaini47-design/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -154,6 +155,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cheenusaini47-design/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -271,6 +273,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/cheenusaini47-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
