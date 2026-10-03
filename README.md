@@ -110,6 +110,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/cheenusaini47-design/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
@@ -297,6 +298,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cheenusaini47-design/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/cheenusaini47-design/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
