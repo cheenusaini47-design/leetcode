@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cheenusaini47-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/cheenusaini47-design/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/cheenusaini47-design/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -19,6 +20,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cheenusaini47-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/cheenusaini47-design/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/cheenusaini47-design/leetcode/tree/master/0203-remove-linked-list-elements) |
@@ -68,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/cheenusaini47-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
