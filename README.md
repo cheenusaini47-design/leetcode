@@ -140,6 +140,7 @@
 | [0724-find-pivot-index](https://github.com/cheenusaini47-design/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cheenusaini47-design/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0930-binary-subarrays-with-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0941-valid-mountain-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/1004-max-consecutive-ones-iii) |
