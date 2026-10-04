@@ -109,6 +109,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/cheenusaini47-design/leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Array
@@ -140,6 +141,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
+| [1089-duplicate-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
