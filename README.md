@@ -150,6 +150,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/cheenusaini47-design/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/cheenusaini47-design/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/cheenusaini47-design/leetcode/tree/master/1436-destination-city) |
