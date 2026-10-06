@@ -135,6 +135,7 @@
 | [0238-product-of-array-except-self](https://github.com/cheenusaini47-design/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/cheenusaini47-design/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/cheenusaini47-design/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/cheenusaini47-design/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -174,6 +175,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/cheenusaini47-design/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/cheenusaini47-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cheenusaini47-design/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/cheenusaini47-design/leetcode/tree/master/0905-sort-array-by-parity) |
