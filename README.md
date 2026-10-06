@@ -147,6 +147,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1004-max-consecutive-ones-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/cheenusaini47-design/leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/cheenusaini47-design/leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/cheenusaini47-design/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -177,6 +178,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cheenusaini47-design/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/cheenusaini47-design/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/cheenusaini47-design/leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/cheenusaini47-design/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -418,4 +420,12 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/cheenusaini47-design/leetcode/tree/master/0319-bulb-switcher) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/cheenusaini47-design/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/cheenusaini47-design/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
