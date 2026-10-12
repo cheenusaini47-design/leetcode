@@ -38,6 +38,7 @@
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cheenusaini47-design/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/cheenusaini47-design/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/cheenusaini47-design/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/cheenusaini47-design/leetcode/tree/master/0205-isomorphic-strings) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/cheenusaini47-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
@@ -100,6 +102,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -410,6 +413,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/cheenusaini47-design/leetcode/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
