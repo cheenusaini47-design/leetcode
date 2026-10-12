@@ -66,6 +66,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/cheenusaini47-design/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Backtracking
@@ -140,6 +141,7 @@
 | [0074-search-a-2d-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/cheenusaini47-design/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/cheenusaini47-design/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
