@@ -20,6 +20,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/cheenusaini47-design/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cheenusaini47-design/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cheenusaini47-design/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -381,6 +383,7 @@
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cheenusaini47-design/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
 |  |
 | ------- |
