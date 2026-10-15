@@ -72,6 +72,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/cheenusaini47-design/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -85,6 +86,7 @@
 | [0002-add-two-numbers](https://github.com/cheenusaini47-design/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
@@ -103,6 +105,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/cheenusaini47-design/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Bit Manipulation
