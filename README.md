@@ -115,6 +115,7 @@
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/cheenusaini47-design/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Two Pointers
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/cheenusaini47-design/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cheenusaini47-design/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -466,6 +468,7 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/cheenusaini47-design/leetcode/tree/master/0319-bulb-switcher) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/cheenusaini47-design/leetcode/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Counting Sort
 |  |
 | ------- |
