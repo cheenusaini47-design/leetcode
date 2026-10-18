@@ -53,6 +53,7 @@
 | [0383-ransom-note](https://github.com/cheenusaini47-design/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/cheenusaini47-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/0539-minimum-time-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/cheenusaini47-design/leetcode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/cheenusaini47-design/leetcode/tree/master/0917-reverse-only-letters) |
@@ -94,6 +95,7 @@
 | [0319-bulb-switcher](https://github.com/cheenusaini47-design/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/cheenusaini47-design/leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0509-fibonacci-number) |
+| [0539-minimum-time-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/0539-minimum-time-difference) |
 | [0989-add-to-array-form-of-integer](https://github.com/cheenusaini47-design/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/cheenusaini47-design/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/cheenusaini47-design/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -167,6 +169,7 @@
 | [0414-third-maximum-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/cheenusaini47-design/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/cheenusaini47-design/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/cheenusaini47-design/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -210,6 +213,7 @@
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/cheenusaini47-design/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/cheenusaini47-design/leetcode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/cheenusaini47-design/leetcode/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cheenusaini47-design/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/cheenusaini47-design/leetcode/tree/master/0905-sort-array-by-parity) |
