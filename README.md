@@ -199,6 +199,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1695-maximum-erasure-value](https://github.com/cheenusaini47-design/leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/cheenusaini47-design/leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/cheenusaini47-design/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2090-k-radius-subarray-averages](https://github.com/cheenusaini47-design/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/cheenusaini47-design/leetcode/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -228,6 +229,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/cheenusaini47-design/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cheenusaini47-design/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cheenusaini47-design/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/cheenusaini47-design/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/cheenusaini47-design/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -345,6 +347,7 @@
 | [0179-largest-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/cheenusaini47-design/leetcode/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/cheenusaini47-design/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -485,6 +488,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/cheenusaini47-design/leetcode/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/cheenusaini47-design/leetcode/tree/master/1051-height-checker) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/cheenusaini47-design/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bubble Sort
 |  |
 | ------- |
