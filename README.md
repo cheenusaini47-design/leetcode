@@ -264,6 +264,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -298,6 +299,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/cheenusaini47-design/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -327,6 +329,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/cheenusaini47-design/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
+| [0700-search-in-a-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/cheenusaini47-design/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/cheenusaini47-design/leetcode/tree/master/1208-get-equal-substrings-within-budget) |
