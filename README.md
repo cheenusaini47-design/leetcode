@@ -84,6 +84,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/cheenusaini47-design/leetcode/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/cheenusaini47-design/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/cheenusaini47-design/leetcode/tree/master/0078-subsets) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/cheenusaini47-design/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/cheenusaini47-design/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cheenusaini47-design/leetcode/tree/master/0268-missing-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/cheenusaini47-design/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -158,6 +160,7 @@
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/cheenusaini47-design/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/cheenusaini47-design/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/cheenusaini47-design/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cheenusaini47-design/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/cheenusaini47-design/leetcode/tree/master/0119-pascals-triangle-ii) |
