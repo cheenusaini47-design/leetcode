@@ -180,6 +180,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/cheenusaini47-design/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/cheenusaini47-design/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/cheenusaini47-design/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/cheenusaini47-design/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/cheenusaini47-design/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/cheenusaini47-design/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/cheenusaini47-design/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -252,6 +253,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cheenusaini47-design/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/cheenusaini47-design/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cheenusaini47-design/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/cheenusaini47-design/leetcode/tree/master/1544-make-the-string-great) |
 ## Tree
@@ -458,6 +460,7 @@
 | [0054-spiral-matrix](https://github.com/cheenusaini47-design/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/cheenusaini47-design/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/cheenusaini47-design/leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/cheenusaini47-design/leetcode/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/cheenusaini47-design/leetcode/tree/master/1518-water-bottles) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/cheenusaini47-design/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Sliding Window
