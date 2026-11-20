@@ -253,6 +253,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cheenusaini47-design/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cheenusaini47-design/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/cheenusaini47-design/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/cheenusaini47-design/leetcode/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/cheenusaini47-design/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/cheenusaini47-design/leetcode/tree/master/1544-make-the-string-great) |
@@ -377,6 +378,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/cheenusaini47-design/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/cheenusaini47-design/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -443,6 +445,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/cheenusaini47-design/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/cheenusaini47-design/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
